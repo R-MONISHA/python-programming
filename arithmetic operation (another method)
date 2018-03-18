@@ -1,0 +1,16 @@
+num1=int(input('enter the number:'))
+num2 =int(input('enter the number:'))
+sum= num1 + num2
+print("sum of num1 and num2 ",sum)
+sub=num1-num2
+print("sub of num1 and num2 ",sub)
+div=num1/num2
+print("div of num1 and num2 ",div)
+mod=num1%num2
+print("mod of  num1 and num2",mod)
+exp=num1**num2
+print("exp of  num1 and num2 ",exp)
+floor_division=num1//num2
+print("floor_division of num1 and num2",floor_division)
+mul=num1*num2
+print("mul of num1 and num2",mul)
